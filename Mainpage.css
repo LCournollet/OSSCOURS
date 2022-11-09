@@ -1,3 +1,11 @@
 .test {
     border: red 5px solid;
 }
+
+#DIV1 {
+    background-color: blue;
+}
+
+#DIV2 {
+    background-color: green;
+}
