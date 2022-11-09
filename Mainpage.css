@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://cdn.discordapp.com/attachments/1039855000941232158/1039892994133864448/image.png")
+    background: linear-gradient( to right, #F1FAEE 0%, #F1FAEE 50%, #F1FAEE 75%, #E63946 75%, #E63946 100%);
 }
 
 .test {
