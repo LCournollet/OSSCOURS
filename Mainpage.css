@@ -3,9 +3,16 @@
 }
 
 #DIV1 {
+    display: flex;
     background-color: blue;
 }
 
 #DIV2 {
     background-color: green;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 28px;
+    height: 50px;
+    width: 50px;
 }
